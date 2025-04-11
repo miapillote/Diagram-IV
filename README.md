@@ -8,4 +8,4 @@ The design references Diagram IV from Lovelace's historic publication in Scienti
 
 🎓 Built for my graduation from the University of Rochester with a B.S. in Computer Science and minors in Mathematics, Gender Studies, and Spanish.
 
-👗 Dress inspiration: Robert Wun, SS24 runway collection
+👗 Dress inspiration: *The Love Letter*, Robert Wun S.S. 24
