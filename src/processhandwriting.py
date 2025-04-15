@@ -7,9 +7,9 @@ Original file is located at
     https://colab.research.google.com/drive/1sT1uLy-H04V43mwj5Ye5T9fKbsIRccwR
 """
 
-!pip install pdf2image
+#!pip install pdf2image
 
-!apt-get install poppler-utils
+#!apt-get install poppler-utils
 
 import glob
 import imageio.v3 as iio
